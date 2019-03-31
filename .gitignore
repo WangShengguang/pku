@@ -1,0 +1,24 @@
+.vscode/
+.idea/
+*.pyc
+*.log
+nohup.out
+#config.py
+local_config.py
+
+#
+*.txt
+*.xlsx
+*.csv
+
+
+#
+*.json
+*.png
+*.jpg
+*.jpeg
+
+# 本地文件
+local/*
+recommendation/data/*
+recommendation/bpr/data/*
