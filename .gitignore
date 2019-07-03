@@ -22,3 +22,7 @@ local_config.py
 local/*
 recommendation/data/*
 recommendation/bpr/data/*
+
+
+
+*.js
